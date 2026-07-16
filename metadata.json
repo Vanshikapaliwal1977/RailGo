@@ -1,0 +1,6 @@
+{
+  "name": "RailGo",
+  "description": "An independent railway reservation simulator and travel companion. Features smart search, live seat inventory tracking, passenger management, and a comprehensive booking dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
